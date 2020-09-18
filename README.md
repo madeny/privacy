@@ -187,7 +187,7 @@ If we do transfer Personal Information outside the U.S., we will make sure that 
 
 **VIII. Our Policy Toward Children**
 
-These Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at \[contact@madeny.me\](mailto:contact@madeny.me). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+These Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [contact@madeny.me](mailto:contact@madeny.me). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **IX. Phishing**
 
@@ -199,11 +199,11 @@ Our Services may provide links to other websites and applications. If you choose
 
 **XI. Complaints**
 
-If you have any complaints concerning Madeny’s processing of your Personal Information, please email us at \[contact@madeny.me\](mailto:contact@madeny.me) or write to us at 09 Avenue Lamartine 77270 Villeparisis France.
+If you have any complaints concerning Madeny’s processing of your Personal Information, please email us at [contact@madeny.me](mailto:contact@madeny.me) or write to us at 09 Avenue Lamartine 77270 Villeparisis France.
 Please note that if you are an EU Resident, you may have the right to lodge a complaint with a European Union supervisory authority that is responsible for the protection of Personal Information in the country where you live or work, or in which you think a breach of data protection laws might have taken place. You can learn more about these rights at [https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en).
 Customers in the United Kingdom can contact the Information Commissioner’s Office by telephone on 0303 123 1113, or by using the live chat service that is available through the Information Commissioner’s website [www.ico.org.uk](http://www.ico.org.uk/)
 
 **XII. Contacting Us**
 
-If you have any questions about this Privacy Policy or if you would like us to delete your personal information, please contact us at \[contact@madeny.me\](mailto:contact@madeny.me)
+If you have any questions about this Privacy Policy or if you would like us to delete your personal information, please contact us at [contact@madeny.me](mailto:contact@madeny.me)
 Last Updated: 18/09/2020
